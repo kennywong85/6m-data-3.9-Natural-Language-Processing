@@ -35,7 +35,7 @@ By the end of L09 you will be able to:
 
 ## Phase 2 — In-class (≈ 90 min lecture + 90 min code-along)
 
-- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://flexfengfeng.github.io/dsai-m3-l09-learner/) (revisit any time)
+- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/s6m-data-3.9-Natural-Language-Processing/) (revisit any time)
 - **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, validation checklist, 7-question review, course map to L10)
 - Code-along notebooks (in order):
   - [02_words_to_vectors.ipynb](notebooks/02_words_to_vectors.ipynb) — one-hot encoding, bag-of-words, the embedding intuition
